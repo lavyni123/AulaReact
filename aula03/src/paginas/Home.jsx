@@ -41,7 +41,12 @@ return(
 <div className="conteudo">
     <h3>Região Norte</h3>
     <ul>
-
+<li><Link to="/estados/ac">Acre</Link></li>
+<li><Link to="/estados/ap">Amapá</Link></li>
+<li><Link to="/estados/am">Amazonas</Link></li>
+<li><Link to="/estados/ro">Rondônia</Link></li>
+<li><Link to="/estados/rr">Roraima</Link></li>
+<li><Link to="/estados/to">Tocantins</Link></li>
         
     </ul>
 </div>
